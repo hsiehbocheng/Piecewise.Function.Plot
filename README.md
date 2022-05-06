@@ -1,6 +1,6 @@
 ## piecewise function plot using R
 
-使用R畫出分段函數，\
+在R中繪製分段函數，\
 使用 ``if elseif`` 以及 ``lapply`` 得到分段函數以及函數值。\
 以下列兩 test 得到之 power function 作範例。\
 \
