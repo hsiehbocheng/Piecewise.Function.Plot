@@ -9,4 +9,9 @@
 X1、X2 be iid uniform(theta,theta + 1). For testing H0:theta = 0 verse Ha: theta > 0,\
 test 1 : reject H0 if X1 > 0.95;\
 test 2 : reject H0 if X1 + X2 > C ; C = 2 - sqrt(0.1)\
-![image](C:\Users\USER\Desktop\Rpot.png)
+\
+\
+圖片
+\
+\
+![image](https://github.com/hsiehbocheng/piecewise-function-plot-using-R-/blob/main/Rplot01.png)
